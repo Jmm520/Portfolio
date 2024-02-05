@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="<?=base_url('assets/img/favicon.png') ?>" rel="icon">
+  <link href="<?=base_url('assets/img/favicon.jpg') ?>" rel="icon">
   <link href="<?=base_url('assets/img/apple-touch-icon.png') ?>" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -25,14 +25,9 @@
   <link href="<?=base_url('assets/vendor/swiper/swiper-bundle.min.css') ?>"rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="<?=base_url('assets/css/style.css" rel="stylesheet') ?>"
+  <link href="<?=base_url('assets/css/style.css')?>" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Personal - v4.1.0
-  * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+
 </head>
 
 <body>
@@ -80,7 +75,7 @@
 
       <div class="row">
         <div class="col-lg-4" data-aos="fade-right">
-          <img src="<?=base_url('assets/img/me.jpg" class="img-fluid') ?>" alt="">
+          <img src="<?=base_url('assets/img/me.jpg') ?>" class="img-fluid" alt="">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3>Computer Science Student</h3>
@@ -305,13 +300,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="<?=base_url('assets/img/portfolio/FoodYum.png" class="img-fluid') ?>" alt="">
+            <img src="<?=base_url('assets/img/portfolio/FoodYum.png') ?>" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>FoodYum</h4>
               <p>Web</p>
               <div class="portfolio-links">
-                <a href="<?=base_url('assets/img/portfolio/FoodYum.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>') ?>"
-                <a href="<?=base_url('assets/project/Food Yum/index.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>') ?>"
+                <a href="<?=base_url('assets/img/portfolio/FoodYum.png')?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="<?=base_url('assets/project/Food Yum/index.html') ?>" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -319,13 +314,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="<?=base_url('assets/img/portfolio/Multiplication Table.png" class="img-fluid') ?>" alt="">
+            <img src="<?=base_url('assets/img/portfolio/Multiplication Table.png') ?>" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Multiplication Table</h4>
               <p>App</p>
               <div class="portfolio-links">
-                <a href="<?=base_url('assets/img/portfolio/Multiplication Table.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>') ?>"
-                <a href="<?=base_url('assets/project/Multiplication Table/Multiplication.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>') ?>"
+                <a href="<?=base_url('assets/img/portfolio/Multiplication Table.png') ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="<?=base_url('assets/project/Multiplication Table/Multiplication.html') ?>" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -333,13 +328,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="<?=base_url('assets/img/portfolio/Simple Calculator.png" class="img-fluid') ?>" alt="">
+            <img src="<?=base_url('assets/img/portfolio/Simple Calculator.png') ?>" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Simple Calculator</h4>
               <p>App</p>
               <div class="portfolio-links">
-                <a href="<?=base_url('assets/img/portfolio/Simple Calculator.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>') ?>"
-                <a href="<?=base_url('assets/project/Simple Calculator/index.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>') ?>"
+                <a href="<?=base_url('assets/img/portfolio/Simple Calculator.png') ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="<?=base_url('assets/project/Simple Calculator/index.html') ?>" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -347,13 +342,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="<?=base_url('assets/img/portfolio/User Profile.png" class="img-fluid') ?>" alt="">
+            <img src="<?=base_url('assets/img/portfolio/User Profile.png') ?>" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>User Profile</h4>
               <p>Web</p>
               <div class="portfolio-links">
-                <a href="<?=base_url('assets/img/portfolio/User Profile.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>') ?>"
-                <a href="<?=base_url('assets/project/User Profile/index.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>') ?>"
+                <a href="<?=base_url('assets/img/portfolio/User Profile.png') ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>'
+                <a href="<?=base_url('assets/project/User Profile/index.html') ?>" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -437,14 +432,6 @@
 
     </div>
   </section><!-- End Contact Section -->
-
-  <div class="credits">
-    <!-- All the links in the footer should remain intact. -->
-    <!-- You can delete the links only if you purchased the pro version. -->
-    <!-- Licensing information: https://bootstrapmade.com/license/ -->
-    <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/personal-free-resume-bootstrap-template/ -->
-    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-  </div>
 
   <!-- Vendor JS Files -->
   <script src="<?=base_url('assets/vendor/bootstrap/js/bootstrap.bundle.min.js')?>"></script>
